@@ -1,0 +1,13 @@
+school = input("Your School Name: ")
+district = input("Your District Name: ")
+state = input("Your State Name: ")
+county = input("Your Country Name: ")
+favorite_sport = input("Your Favorite sport Name: ")
+dream_job = input("Your Dream Job Name: ")
+
+print("Your School Name:", school)
+print("Your District Name:", district)
+print("Your State Name:", state)
+print("Your County Name:", county)
+print("Your Favorite sport Name:", favorite_sport)
+print("Your Dream Job Name:", dream_job)
